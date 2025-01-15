@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgabriellanarosa/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rulyvqnzoipflhynmfbqishoku?si=497d4237f76141f7)
 
-![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgabriellanarosa&show_icons=true&theme=radical)
+![Lucas Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgabriellanarosa&show_icons=true)
 
 ## My Technologies🔥🐉
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabriellanarosa&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
