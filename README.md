@@ -1,5 +1,8 @@
 # Hi! I am Lucas Gabriel!🧙‍♂️🔮
 
+![Banner](./banner.png)
+
+
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucasgabriellanarosa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rosa-452b59237/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasgabriellanarosa/)
